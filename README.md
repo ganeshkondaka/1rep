@@ -1,2 +1,2 @@
-# 1rep
-1st repository(trial)
+# random password generator
+(beginner level)
